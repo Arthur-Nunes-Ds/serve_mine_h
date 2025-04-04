@@ -1,0 +1,20 @@
+{
+	id: "c6edb1d3-28b4-4347-8c34-6d88e77063c8"
+	type: "player"
+	player_name: "0games7"
+	ranks: {
+		c6edb1d3-28b4-4347-8c34-6d88e77063c8: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "0games7"
+		"ftbteams:color": "#D2FF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
